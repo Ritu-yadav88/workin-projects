@@ -1,0 +1,20 @@
+<hotel>
+<item>pizza</item>
+<prize>100</prize>
+<healthy>not healthy</healthy>
+<food>
+<item>burger</item>
+<prize>40</prize>
+<healthy>not healthy</healthy>
+</food>
+<food>
+<item>chocolote</item>
+<prize>30</prize>
+<healthy>not healthy</healthy>
+</food>
+<food>
+<item>apple</item>
+<prize>10</prize>
+<healthy>healthy</healthy>
+</food>
+</hotel>
